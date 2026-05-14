@@ -1,1 +1,5 @@
-# Common Notes from Alice
+# Common Notes
+
+- Alice contribution
+
+- Bob contribution
